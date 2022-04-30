@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # edit this
-FILE_PATH="~/Documents/secure_file.txt"
+FILE_PATH="${HOME}/Documents/secure_file.txt"
 
 # no need to edit
 ENCRYPTED_FILE_PATH="${FILE_PATH}.asc"
